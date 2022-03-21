@@ -1,2 +1,0 @@
-# ADL2022
-NTU ADL 2022 Spring
