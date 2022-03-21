@@ -3,9 +3,6 @@
 ### Environment
 `pip install -r requirements.txt`
 
-### Preprocess
-`bash preprocess.sh`
-
 ### Q1 Intent Classfication
 
 $1 test data path e.g. ./data/intent/test.json
