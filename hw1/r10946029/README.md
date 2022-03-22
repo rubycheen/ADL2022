@@ -1,8 +1,5 @@
 # ADL2022 HW1
 
-### Environment
-`pip install -r requirements.txt`
-
 ### Download Model
 `bash download.sh`
 
