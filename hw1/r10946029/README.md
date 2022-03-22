@@ -3,6 +3,9 @@
 ### Environment
 `pip install -r requirements.txt`
 
+### Download Model
+`bash download.sh`
+
 ### Q1 Intent Classfication
 
 $1 test data path e.g. ./data/intent/test.json
